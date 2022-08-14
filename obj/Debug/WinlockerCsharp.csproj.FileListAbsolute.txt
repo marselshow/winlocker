@@ -1,0 +1,10 @@
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\bin\Debug\WinlockerCsharp.exe.config
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\bin\Debug\WinlockerCsharp.exe
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\bin\Debug\WinlockerCsharp.pdb
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.csprojAssemblyReference.cache
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.Form1.resources
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.Properties.Resources.resources
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.csproj.GenerateResource.cache
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.csproj.CoreCompileInputs.cache
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.exe
+C:\Users\marseldawyn\source\repos\WinlockerCsharp\WinlockerCsharp\obj\Debug\WinlockerCsharp.pdb
